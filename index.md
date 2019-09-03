@@ -3,6 +3,18 @@
 - CJ seems pretty cool
 - It's teaching me content that's relevant to my CS career and education, but isn't really showcased in classes
 
+
+
+
+
+
+
+**POGGERS**
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
